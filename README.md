@@ -13,18 +13,18 @@ This folder contains several icons in `.icns` format. You can preview and downlo
 | Preview | Link | Tips |
 |---------|------|------|
 | <img src="macos-icon/preview/appstore.png" width="100" height="100" /> | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/appstore.icns) | |
-| ![archiveutility](macos-icon/preview/archiveutility.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/archiveutility.icns) |  |
-| ![Code](macos-icon/preview/Code.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/Code.icns) |  |
-| ![CreativeCloudApp](macos-icon/preview/CreativeCloudApp.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/CreativeCloudApp.icns) |  |
-| ![creativefolder](macos-icon/preview/creativefolder.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/creativefolder.icns) |  |
-| ![ExecutableBinaryIcon](macos-icon/preview/ExecutableBinaryIcon.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/ExecutableBinaryIcon.icns) |  |
-| ![GenericDocumentIcon](macos-icon/preview/GenericDocumentIcon.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/GenericDocumentIcon.icns) |  |
-| ![GenericFolder](macos-icon/preview/GenericFolder.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/GenericFolder.icns) |  |
-| ![HomeFolderIcon](macos-icon/preview/HomeFolderIcon.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/HomeFolderIcon.icns) |  |
-| ![key](macos-icon/preview/key.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/key.icns) |  |
-| ![MSWD](macos-icon/preview/MSWD.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/MSWD.icns) |  |
-| ![PicturesFolderIcon](macos-icon/preview/PicturesFolderIcon.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/PicturesFolderIcon.icns) |  |
-| ![RealityFile](macos-icon/preview/RealityFile.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/RealityFile.icns) |  |
-| ![safari](macos-icon/preview/safari.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/safari.icns) |  |
-| ![settings](macos-icon/preview/settings.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/settings.icns) |  |
-| ![teams](macos-icon/preview/teams.png) | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/teams.icns) |  |
+| <img src="macos-icon/preview/archiveutility.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/archiveutility.icns) |  |
+| <img src="macos-icon/preview/Code.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/Code.icns) |  |
+| <img src="macos-icon/preview/CreativeCloudApp.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/CreativeCloudApp.icns) |  |
+| <img src="macos-icon/preview/creativefolder.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/creativefolder.icns) |  |
+| <img src="macos-icon/preview/ExecutableBinaryIcon.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/ExecutableBinaryIcon.icns) |  |
+| <img src="macos-icon/preview/GenericDocumentIcon.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/GenericDocumentIcon.icns) |  |
+| <img src="macos-icon/preview/GenericFolder.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/GenericFolder.icns) |  |
+| <img src="macos-icon/preview/HomeFolderIcon.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/HomeFolderIcon.icns) |  |
+| <img src="macos-icon/preview/key.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/key.icns) |  |
+| <img src="macos-icon/preview/MSWD.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/MSWD.icns) |  |
+| <img src="macos-icon/preview/PicturesFolderIcon.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/PicturesFolderIcon.icns) |  |
+| <img src="macos-icon/preview/RealityFile.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/RealityFile.icns) |  |
+| <img src="macos-icon/preview/safari.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/safari.icns) |  |
+| <img src="macos-icon/preview/settings.png" width="100" height="100" />| [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/settings.icns) |  |
+| <img src="macos-icon/preview/teams.png" width="100" height="100" /> | [Download](https://raw.githubusercontent.com/bk_storage/macos-icons/main/teams.icns) |  |
