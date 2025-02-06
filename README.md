@@ -10,6 +10,9 @@ Available files:
 ## macOS RedTeam Icon Library
 
 This folder contains several icons in `.icns` format. You can preview and download them directly from the table below.
+
+(You can download them automatically by clicking on the preview icon.)
+
 | Preview | Tips | Appropriate module |
 |-------|--------|-----|
 |[<img src="macos-icon/preview/appstore.png" min-width="70" min-height="70"/>](https://github.com/sevagas/bk_storage/raw/refs/heads/main/macos-icon/appstore.icns) | Can be used in the Privesc option, but in an App Store work environment, it may not be the best choice as it is not commonly used.| Privesc|
